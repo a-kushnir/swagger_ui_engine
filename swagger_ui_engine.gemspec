@@ -22,6 +22,5 @@ Gem::Specification.new do |s|
     'CHANGELOG.md'
   ]
 
-  s.add_runtime_dependency 'rails', '>= 6.1'
-  s.add_runtime_dependency 'sassc-rails'
+  s.add_runtime_dependency 'rails', '>= 7.0'
 end
